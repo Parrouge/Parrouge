@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Parry Nall — Applied Mathematics and Statistics. Quantitative research, trading, and optimization." width="100%" />
-</p>
-
 I study **Applied Mathematics and Statistics**, with interests in market making, statistical modeling, and optimization. I enjoy working through problems where the data is noisy, decisions have tradeoffs, and assumptions need to be tested.
 
 My work includes C++ crypto market-making algorithms, event-driven trading strategies, portfolio research, and mathematical models of heat and energy demand. I'm currently looking for **quantitative research and trading internships**.
