@@ -1,7 +1,6 @@
-I study **Applied Mathematics and Statistics**, with interests in market making, statistical modeling, and optimization. I enjoy working through problems where the data is noisy, decisions have tradeoffs, and assumptions need to be tested.
+I'm studying **Applied Mathematics and Statistics**. Most of my projects come from trading and modeling competitions, where I've worked on C++ crypto trading algorithms, portfolio allocation, and models of heat and energy demand.
 
-My work includes C++ crypto market-making algorithms, event-driven trading strategies, portfolio research, and mathematical models of heat and energy demand. I'm currently looking for **quantitative research and trading internships**.
-
+I'm very interested in market making and statistical research, and I'm currently looking for quantitative research and trading internships.
 [LinkedIn](https://www.linkedin.com/in/parry-nall/)
 
 ## Selected work
